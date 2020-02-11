@@ -8,8 +8,3 @@
 
 * live-server
 
-### Reference ###
-
-http://jiangren.com.au
-
-##
